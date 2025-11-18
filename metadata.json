@@ -1,0 +1,5 @@
+{
+  "name": "AI Workout Builder",
+  "description": "Aplicativo inteligente para criação de treinos de musculação personalizados usando IA. Sem login, salvo localmente.",
+  "requestFramePermissions": []
+}
